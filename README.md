@@ -1,11 +1,12 @@
 ### Spring Cloud Micro services configurations
 
 ---> **Spring Eureka Server**
-	- Eureka Server Configuration
+	
+    	-Eureka Server Configuration
 
-    
 ---> **Spring Eureka Client**
-	-Eureka Client configuration
+		
+        -Eureka Client configuration
 
 --> **Spring ZULL Gateway**
 - Routing API mapping to services
