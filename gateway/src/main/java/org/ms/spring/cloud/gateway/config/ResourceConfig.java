@@ -19,7 +19,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 
 /**
- * @author MS
+ *@author MS
  *Static Image Configuration
  */
 @Configuration

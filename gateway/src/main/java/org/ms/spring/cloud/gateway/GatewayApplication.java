@@ -15,7 +15,6 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
  */
 @SpringBootApplication
 @EnableDiscoveryClient
-//@EnableFeignClients(basePackages = {	"com.bosch.bics.thingbook.auth.controller","com.bosch.bics.thingbook.mobile.service" })
 @EnableFeignClients
 @EnableZuulProxy
 @EnableHystrixDashboard

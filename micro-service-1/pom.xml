@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.ms.spring.cloud.eureka.client</groupId>
-	<artifactId>eureka-client</artifactId>
+	<artifactId>micro-service-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>eureka-client</name>
-	<description>Eureka ClientConfig</description>
+	<name>micro-service-1</name>
+	<description>micro serviceconfiguration</description>
 
 	<parent>
 		<groupId>org.springframework.cloud</groupId>
